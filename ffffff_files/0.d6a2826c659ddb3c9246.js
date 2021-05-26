@@ -1,0 +1,2 @@
+webpackJsonp([0],{"1k+X":function(n,e,t){"use strict";e.a=function(n,e,t){sessionStorage.setItem(e,JSON.stringify(t)),n.$router.push({name:e,params:{id:t.id,title:t.cn_spell_name}})},e.b=function(n,e,t){sessionStorage.setItem(n,JSON.stringify(e));var i=/127.0.0.1|localhost|www.dailyyoga.com.cn/.test(window.location.hostname)?"":"/front_end_all/website_h2_v2",o=window.location.origin+i+"/yogaUniversityDetail/"+e.type+"/"+e.id;t&&t.channels&&(o+="?channels="+t.channels);window.open(o)}}});
+//# sourceMappingURL=0.d6a2826c659ddb3c9246.js.map
